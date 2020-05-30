@@ -3,6 +3,7 @@ This is a python program which matches the known faces with the unknown. In the 
 Then the test picture can be added to find the face which has been given in the known folder. Unknown photos will be marked unknown.
 
 The libraries needed for this project are-
+
 opencv-python (which is a dependency as stated by Santanu the smart boy)
 numpy 
 face_recognition
