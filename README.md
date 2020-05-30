@@ -4,15 +4,15 @@ Then the test picture can be added to find the face which has been given in the 
 
 The libraries needed for this project are-
 
-opencv-python (which is a dependency as stated by Santanu the smart boy)
+1)opencv-python (which is a dependency as stated by Santanu the smart boy)
 
-numpy
+2)numpy
 
-face_recognition
+3)face_recognition
 
-cmake 
+4)cmake 
 
-dlib
+5)dlib
 
 All of the libraries can be downloaded with pip command in the terminal followed by the name of the library.
 
